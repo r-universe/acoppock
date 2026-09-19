@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "attrition"]
+	path = attrition
+	url = https://github.com/acoppock/attrition
 [submodule "ri2"]
 	path = ri2
 	url = https://github.com/acoppock/ri2
